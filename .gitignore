@@ -1,0 +1,11 @@
+*.o
+*.a
+*.so
+
+*.exe
+*.test
+*.prof
+
+cowsay.iml
+.idea/
+bin/*
